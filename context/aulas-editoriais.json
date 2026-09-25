@@ -1,0 +1,939 @@
+[
+  {
+    "titulo": "Abra um arquivo que você consegue reencontrar",
+    "entrega": "criar e reabrir um arquivo de Figma Design",
+    "dor": "Começar no produto errado pode esconder os controles da aula. Primeiro confirme onde seu trabalho será guardado.",
+    "antes": "Abrir qualquer produto e começar sem nomear o arquivo.",
+    "depois": "Criar um arquivo de Design, nomear e confirmar que ele reabre.",
+    "campos": [
+      "Produto: Figma Design",
+      "Arquivo: Luz de Rua",
+      "Conferência: reabrir com permissão de edição"
+    ],
+    "passos": [
+      "Entre no Figma pelo computador e crie um arquivo de Design.",
+      "Nomeie Luz de Rua e guarde seu endereço no navegador.",
+      "Volte à lista, reabra o arquivo e confira que consegue editar."
+    ],
+    "pronto": "o arquivo nomeado reabre e permite edição",
+    "q": "O arquivo só permite visualizar. O que conferir antes de procurar ferramentas?",
+    "opcoes": [
+      "Sua permissão de edição e a conta utilizada",
+      "A cor de fundo da página que aparece na tela",
+      "A quantidade de fotos guardadas no computador"
+    ],
+    "correta": 0,
+    "observacao": "Tainá e Álvaro planejam as peças com fotografias e cartões. É uma cena ilustrativa, não uma captura do Figma.",
+    "ex1": "Tainá escolhe Design porque vai montar peças com camadas.",
+    "ex2": "Álvaro guarda o endereço para não depender de encontrar o arquivo novamente.",
+    "calma": "Se não conseguir entrar ou editar, deixe a prática pendente. As próximas montagens exigem um arquivo acessível.",
+    "confira": "Criar um arquivo de Design, nomear e confirmar que ele reabre.",
+    "tarefa": "Abra um arquivo que você consegue reencontrar",
+    "resumo": [
+      "Produto: Figma Design",
+      "Arquivo: Luz de Rua",
+      "Conferência: reabrir com permissão de edição"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Abra um arquivo que você consegue reencontrar\nProduto: Figma Design — <sua decisão>\nArquivo: Luz de Rua — <sua decisão>\nConferência: reabrir com permissão de edição — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "O arquivo só permite visualizar. O que conferir antes de procurar ferramentas?",
+        "Sua permissão de edição e a conta utilizada"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Criar um arquivo de Design, nomear e confirmar que ele reabre."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o arquivo nomeado reabre e permite edição"
+      ]
+    ]
+  },
+  {
+    "titulo": "Use cinco regras para encontrar o problema",
+    "entrega": "avaliar uma peça por mensagem, letras, espaço, repetição e leitura",
+    "dor": "Acrescentar efeitos pode aumentar a confusão. Identifique primeiro o que impede entender a peça.",
+    "antes": "Adicionar brilho, sombra e mais fontes para parecer profissional.",
+    "depois": "Escolher uma mensagem e corrigir o problema que mais atrapalha sua leitura.",
+    "campos": [
+      "Régua: cinco critérios observáveis",
+      "Diagnóstico: um problema principal ou nenhum",
+      "Decisão: uma mudança justificada ou manter"
+    ],
+    "passos": [
+      "Abra o exemplo visual da aula e confira os cinco critérios.",
+      "Registre um problema concreto ou escreva nenhum problema observado.",
+      "Escolha uma mudança ligada ao problema, ou justifique manter a versão."
+    ],
+    "pronto": "os cinco critérios foram conferidos e há uma decisão justificada",
+    "q": "O título disputa atenção com quatro chamadas do mesmo tamanho. Qual mudança ataca o problema?",
+    "opcoes": [
+      "Acrescentar uma sombra diferente em cada chamada",
+      "Escolher uma chamada principal e reduzir as demais",
+      "Trocar todas as cores mantendo o mesmo destaque"
+    ],
+    "correta": 1,
+    "observacao": "Muitos recortes competem com um cartão de foco único. A cena ilustra seleção; o exemplo com texto aparece no quadro da aula.",
+    "ex1": "Tainá reduz as chamadas antes de testar um novo efeito.",
+    "ex2": "Álvaro consegue explicar qual informação deve ser lida primeiro.",
+    "calma": "Não precisa conhecer termos de design. Aponte o que leu primeiro e o que ficou difícil de entender.",
+    "confira": "Escolher uma mensagem e corrigir o problema que mais atrapalha sua leitura.",
+    "tarefa": "Use cinco regras para encontrar o problema",
+    "resumo": [
+      "Régua: cinco critérios observáveis",
+      "Diagnóstico: um problema principal ou nenhum",
+      "Decisão: uma mudança justificada ou manter"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Use cinco regras para encontrar o problema\nRégua: cinco critérios observáveis — <sua decisão>\nDiagnóstico: um problema principal ou nenhum — <sua decisão>\nDecisão: uma mudança justificada ou manter — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "O título disputa atenção com quatro chamadas do mesmo tamanho. Qual mudança ataca o problema?",
+        "Escolher uma chamada principal e reduzir as demais"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Escolher uma mensagem e corrigir o problema que mais atrapalha sua leitura."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "os cinco critérios foram conferidos e há uma decisão justificada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Planeje uma capa e três páginas",
+    "entrega": "escrever o conteúdo de quatro peças antes de diagramar",
+    "dor": "Sem um roteiro, cada página vira um novo começo. Defina a função de cada uma antes de duplicar o desenho.",
+    "antes": "Criar quatro peças sem saber o papel de cada uma.",
+    "depois": "Dar uma função e uma chamada a cada quadro, mantendo uma família visual.",
+    "campos": [
+      "Capa: apresentar Luz de Rua",
+      "Páginas: luz, detalhe e série",
+      "Fixos: cores, letras e assinatura"
+    ],
+    "passos": [
+      "Escreva capa e três páginas numa nota, com chamada e apoio.",
+      "Indique uma imagem ou detalhe que ajude cada mensagem.",
+      "Marque os elementos que devem permanecer nas quatro peças."
+    ],
+    "pronto": "as quatro peças têm conteúdo definido e elementos fixos identificados",
+    "q": "No Figma Design, como organizar quatro peças do mesmo carrossel?",
+    "opcoes": [
+      "Criar quatro contas para separar os tamanhos de imagem",
+      "Guardar cada frase num arquivo sem relação com os outros",
+      "Usar quatro quadros dentro da mesma página do arquivo"
+    ],
+    "correta": 2,
+    "observacao": "Quatro cartões compartilham cores e variam as fotos. Estão sem texto; o roteiro da prática fornece a mensagem de cada peça.",
+    "ex1": "Tainá escreve o roteiro antes de escolher o enquadramento.",
+    "ex2": "Álvaro distingue a página do arquivo dos quatro quadros que ela contém.",
+    "calma": "Use os quatro títulos do exemplo se estiver sem ideia. Acrescente uma frase simples para cada um.",
+    "confira": "Dar uma função e uma chamada a cada quadro, mantendo uma família visual.",
+    "tarefa": "Planeje uma capa e três páginas",
+    "resumo": [
+      "Capa: apresentar Luz de Rua",
+      "Páginas: luz, detalhe e série",
+      "Fixos: cores, letras e assinatura"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Planeje uma capa e três páginas\nCapa: apresentar Luz de Rua — <sua decisão>\nPáginas: luz, detalhe e série — <sua decisão>\nFixos: cores, letras e assinatura — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "No Figma Design, como organizar quatro peças do mesmo carrossel?",
+        "Usar quatro quadros dentro da mesma página do arquivo"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Dar uma função e uma chamada a cada quadro, mantendo uma família visual."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "as quatro peças têm conteúdo definido e elementos fixos identificados"
+      ]
+    ]
+  },
+  {
+    "titulo": "Crie um quadro com tamanho conhecido",
+    "entrega": "montar um quadro vertical de 1080 por 1350",
+    "dor": "Um objeto grande no espaço de trabalho não define a peça final. O quadro delimita o que será exportado.",
+    "antes": "Ajustar o zoom esperando mudar o tamanho do arquivo exportado.",
+    "depois": "Definir largura e altura do quadro, usando zoom apenas para visualizar.",
+    "campos": [
+      "Quadro: 00-Capa",
+      "Dimensões: W 1080 e H 1350",
+      "Zoom: muda a visualização, não o tamanho"
+    ],
+    "passos": [
+      "Crie um frame vazio no arquivo Luz de Rua.",
+      "Defina W 1080 e H 1350 e nomeie 00-Capa.",
+      "Mude o zoom e confira que largura e altura continuam iguais."
+    ],
+    "pronto": "o quadro nomeado mantém 1080 por 1350 mesmo após mudar o zoom",
+    "q": "Você diminui o zoom para 25%. O que acontece com as dimensões do quadro?",
+    "opcoes": [
+      "Continuam iguais; muda apenas a visualização",
+      "São divididas por quatro no próximo arquivo salvo",
+      "Mudam conforme a largura da tela do computador"
+    ],
+    "correta": 0,
+    "observacao": "Os papéis mostram formatos vertical e horizontal. São uma analogia dos limites do quadro, sem reproduzir controles do programa.",
+    "ex1": "Tainá define o tamanho antes de posicionar a fotografia.",
+    "ex2": "Álvaro reduz o zoom sem mexer nos valores W e H.",
+    "calma": "Se estiver digitando texto, pressione Escape antes de F. Confirme que o item selecionado é o quadro, não uma forma interna.",
+    "confira": "Definir largura e altura do quadro, usando zoom apenas para visualizar.",
+    "tarefa": "Crie um quadro com tamanho conhecido",
+    "resumo": [
+      "Quadro: 00-Capa",
+      "Dimensões: W 1080 e H 1350",
+      "Zoom: muda a visualização, não o tamanho"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Crie um quadro com tamanho conhecido\nQuadro: 00-Capa — <sua decisão>\nDimensões: W 1080 e H 1350 — <sua decisão>\nZoom: muda a visualização, não o tamanho — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "Você diminui o zoom para 25%. O que acontece com as dimensões do quadro?",
+        "Continuam iguais; muda apenas a visualização"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Definir largura e altura do quadro, usando zoom apenas para visualizar."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o quadro nomeado mantém 1080 por 1350 mesmo após mudar o zoom"
+      ]
+    ]
+  },
+  {
+    "titulo": "Entenda a ordem das camadas",
+    "entrega": "organizar duas formas dentro do quadro e conferir sua sobreposição",
+    "dor": "Quando algo desaparece, pode estar coberto ou fora do quadro. Confira a estrutura antes de redesenhar.",
+    "antes": "Excluir objetos ao acaso quando a fotografia some.",
+    "depois": "Conferir ordem, visibilidade e pertencimento ao quadro antes de alterar.",
+    "campos": [
+      "Estrutura: duas formas dentro de 00-Capa",
+      "Ordem: Cartão acima de Fundo",
+      "Teste: ocultar, exibir e conferir o recorte"
+    ],
+    "passos": [
+      "Desenhe duas formas sobrepostas e nomeie Fundo e Cartão.",
+      "Reordene na lista e confirme que ambas pertencem a 00-Capa.",
+      "Teste visibilidade e Clip content. Restaure uma composição simples."
+    ],
+    "pronto": "a ordem foi testada e as duas formas estão dentro do quadro",
+    "q": "O cartão existe na lista, mas está coberto por outra forma. Qual ajuste investigar?",
+    "opcoes": [
+      "O preço do plano antes de selecionar o cartão",
+      "A ordem das camadas dentro do quadro",
+      "O formato de exportação da fotografia original"
+    ],
+    "correta": 1,
+    "observacao": "Papéis sobrepostos representam a ordem dos objetos. A cena mostra o mecanismo, não o painel de camadas do Figma.",
+    "ex1": "Tainá nomeia a forma antes de bloqueá-la.",
+    "ex2": "Álvaro usa visibilidade para identificar um objeto sem apagá-lo.",
+    "calma": "Desfazer recupera o teste recente. Faça uma mudança por vez para entender qual camada estava cobrindo o assunto.",
+    "confira": "Conferir ordem, visibilidade e pertencimento ao quadro antes de alterar.",
+    "tarefa": "Entenda a ordem das camadas",
+    "resumo": [
+      "Estrutura: duas formas dentro de 00-Capa",
+      "Ordem: Cartão acima de Fundo",
+      "Teste: ocultar, exibir e conferir o recorte"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Entenda a ordem das camadas\nEstrutura: duas formas dentro de 00-Capa — <sua decisão>\nOrdem: Cartão acima de Fundo — <sua decisão>\nTeste: ocultar, exibir e conferir o recorte — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "O cartão existe na lista, mas está coberto por outra forma. Qual ajuste investigar?",
+        "A ordem das camadas dentro do quadro"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Conferir ordem, visibilidade e pertencimento ao quadro antes de alterar."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a ordem foi testada e as duas formas estão dentro do quadro"
+      ]
+    ]
+  },
+  {
+    "titulo": "Coloque a imagem sem cortar o assunto",
+    "entrega": "inserir uma imagem e escolher entre ajuste e recorte",
+    "dor": "Preencher todo o espaço pode cortar a parte importante. Confira o assunto antes de aprovar a moldura.",
+    "antes": "Preencher o quadro sem conferir o que saiu pelas bordas.",
+    "depois": "Escolher o recorte preservando o detalhe que sustenta a mensagem.",
+    "campos": [
+      "Fonte: imagem guardada no computador",
+      "Modo: Fit, Fill ou Crop com motivo",
+      "Conferência: arco da janela preservado"
+    ],
+    "passos": [
+      "Guarde a imagem do kit e coloque-a dentro de 00-Capa.",
+      "Compare Fit e Fill; ajuste Crop se precisar preservar o arco.",
+      "Confira a imagem no quadro inteiro e registre o modo escolhido."
+    ],
+    "pronto": "a imagem está no quadro e o detalhe principal permanece visível",
+    "q": "Fill corta o arco que explica a imagem. Qual é um próximo passo adequado?",
+    "opcoes": [
+      "Esticar a imagem até o arco parecer caber na forma",
+      "Aceitar o corte porque todo quadro precisa ficar cheio",
+      "Reposicionar com Crop ou usar Fit e rever o espaço"
+    ],
+    "correta": 2,
+    "observacao": "Dois enquadramentos mostram o arco com margens diferentes. Compare o espaço ao redor antes de decidir o recorte da sua capa.",
+    "ex1": "Tainá preserva o arco porque ele orienta a leitura da fachada.",
+    "ex2": "Álvaro guarda a imagem fonte para experimentar outro formato depois.",
+    "calma": "Se o arquivo entrar fora do quadro, localize a camada na lista e mova para 00-Capa. Não precisa importar novamente.",
+    "confira": "Escolher o recorte preservando o detalhe que sustenta a mensagem.",
+    "tarefa": "Coloque a imagem sem cortar o assunto",
+    "resumo": [
+      "Fonte: imagem guardada no computador",
+      "Modo: Fit, Fill ou Crop com motivo",
+      "Conferência: arco da janela preservado"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Coloque a imagem sem cortar o assunto\nFonte: imagem guardada no computador — <sua decisão>\nModo: Fit, Fill ou Crop com motivo — <sua decisão>\nConferência: arco da janela preservado — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "Fill corta o arco que explica a imagem. Qual é um próximo passo adequado?",
+        "Reposicionar com Crop ou usar Fit e rever o espaço"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Escolher o recorte preservando o detalhe que sustenta a mensagem."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a imagem está no quadro e o detalhe principal permanece visível"
+      ]
+    ]
+  },
+  {
+    "titulo": "Faça três níveis de texto trabalharem juntos",
+    "entrega": "criar chamada, apoio e assinatura com leitura clara",
+    "dor": "Quando tudo tem o mesmo peso, a pessoa não sabe por onde começar. Dê uma função a cada tamanho.",
+    "antes": "Misturar muitas fontes e diminuir tudo para caber.",
+    "depois": "Usar três papéis de texto e conferir tamanho, quebra e entrelinha.",
+    "campos": [
+      "Chamada: 64 como ponto de partida",
+      "Apoio e assinatura: 32 e 28",
+      "Revisão: acentos, quebras e entrelinha"
+    ],
+    "passos": [
+      "Crie as três camadas de texto dentro de 00-Capa.",
+      "Ajuste a caixa e experimente entrelinha 72 no título de tamanho 64.",
+      "Confira acentos e leitura pequena. Ajuste os valores se necessário."
+    ],
+    "pronto": "os três textos estão editáveis, sem corte e com ordem de leitura clara",
+    "q": "As linhas do título ficam coladas. Qual propriedade atua diretamente nesse espaço?",
+    "opcoes": [
+      "Line height, a entrelinha do texto",
+      "A largura do quadro de todas as páginas",
+      "A opacidade da fotografia usada no fundo"
+    ],
+    "correta": 0,
+    "observacao": "Blocos de tamanhos diferentes ilustram hierarquia. O exemplo com texto real está no quadro da aula; blocos não comprovam legibilidade.",
+    "ex1": "Tainá mantém uma família de letras e muda tamanho e peso.",
+    "ex2": "Álvaro confere os acentos antes de duplicar a peça.",
+    "calma": "Se T escrever uma letra no texto atual, pressione Escape e selecione a ferramenta Text. Confira a camada antes de alterar propriedades.",
+    "confira": "Usar três papéis de texto e conferir tamanho, quebra e entrelinha.",
+    "tarefa": "Faça três níveis de texto trabalharem juntos",
+    "resumo": [
+      "Chamada: 64 como ponto de partida",
+      "Apoio e assinatura: 32 e 28",
+      "Revisão: acentos, quebras e entrelinha"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Faça três níveis de texto trabalharem juntos\nChamada: 64 como ponto de partida — <sua decisão>\nApoio e assinatura: 32 e 28 — <sua decisão>\nRevisão: acentos, quebras e entrelinha — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "As linhas do título ficam coladas. Qual propriedade atua diretamente nesse espaço?",
+        "Line height, a entrelinha do texto"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Usar três papéis de texto e conferir tamanho, quebra e entrelinha."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "os três textos estão editáveis, sem corte e com ordem de leitura clara"
+      ]
+    ]
+  },
+  {
+    "titulo": "Alinhe pelo mesmo início e repita os espaços",
+    "entrega": "organizar três objetos com alinhamento e intervalos regulares",
+    "dor": "Objetos quase alinhados criam ruído. Use os controles para conferir o que o olho percebeu.",
+    "antes": "Arrastar cada item até parecer mais ou menos alinhado.",
+    "depois": "Selecionar os objetos corretos, alinhar e conferir os intervalos.",
+    "campos": [
+      "Seleção: três objetos do mesmo conjunto",
+      "Intervalo de teste: 24 unidades",
+      "Margem inicial do texto: 64 unidades"
+    ],
+    "passos": [
+      "Crie três retângulos de teste e selecione todos.",
+      "Alinhe pelo início e regularize o intervalo, usando 24 como teste.",
+      "Confira o início dos três textos da capa. Ajuste mantendo uma margem consistente."
+    ],
+    "pronto": "o teste tem três objetos alinhados e os textos da capa compartilham o mesmo início",
+    "q": "Tidy up alterou a composição inteira de forma indesejada. O que fazer?",
+    "opcoes": [
+      "Aumentar todos os objetos para esconder a mudança",
+      "Desfazer e aplicar ao conjunto menor que precisa de ajuste",
+      "Exportar imediatamente para impedir novas alterações"
+    ],
+    "correta": 1,
+    "observacao": "A régua e as fotografias ilustram alinhamento e repetição de espaços. É uma analogia física, sem medidas exatas para copiar.",
+    "ex1": "Tainá seleciona só os objetos que precisam compartilhar o intervalo.",
+    "ex2": "Álvaro confere a margem da capa depois do teste separado.",
+    "calma": "Se os controles não aparecerem, confira se há vários objetos selecionados. Alinhamento e distribuição são ações diferentes.",
+    "confira": "Selecionar os objetos corretos, alinhar e conferir os intervalos.",
+    "tarefa": "Alinhe pelo mesmo início e repita os espaços",
+    "resumo": [
+      "Seleção: três objetos do mesmo conjunto",
+      "Intervalo de teste: 24 unidades",
+      "Margem inicial do texto: 64 unidades"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Alinhe pelo mesmo início e repita os espaços\nSeleção: três objetos do mesmo conjunto — <sua decisão>\nIntervalo de teste: 24 unidades — <sua decisão>\nMargem inicial do texto: 64 unidades — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "Tidy up alterou a composição inteira de forma indesejada. O que fazer?",
+        "Desfazer e aplicar ao conjunto menor que precisa de ajuste"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Selecionar os objetos corretos, alinhar e conferir os intervalos."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o teste tem três objetos alinhados e os textos da capa compartilham o mesmo início"
+      ]
+    ]
+  },
+  {
+    "titulo": "Diferencie preenchimento, contorno e transição",
+    "entrega": "testar cor sólida, borda e gradiente sem confundir suas funções",
+    "dor": "Mudar a propriedade errada pode deixar a peça pesada. Descubra qual parte do objeto está sendo alterada.",
+    "antes": "Somar borda grossa, preenchimento forte e gradiente em todos os objetos.",
+    "depois": "Usar cada propriedade para um trabalho específico e conferir o resultado.",
+    "campos": [
+      "Fill: área interna",
+      "Stroke: limite do objeto",
+      "Linear: transição entre pontos"
+    ],
+    "passos": [
+      "Crie três quadrados com cor sólida, contorno e gradiente.",
+      "Mude um ponto do gradiente para observar direção e opacidade.",
+      "Escolha uma aplicação útil na capa ou mantenha a versão simples, com motivo."
+    ],
+    "pronto": "os três testes existem e você registrou uma escolha para a capa",
+    "q": "Você quer só uma moldura, sem área colorida no centro. O que configurar?",
+    "opcoes": [
+      "Aumentar o preenchimento até cobrir a fotografia",
+      "Aplicar uma sombra maior atrás de todo o quadro",
+      "Remover Fill e usar Stroke no objeto"
+    ],
+    "correta": 2,
+    "observacao": "Amostras cheias, bordas vazadas e uma transição ilustram três funções. Os controles reais devem ser conferidos no objeto selecionado.",
+    "ex1": "Tainá usa o contorno para separar um cartão sem cobrir a imagem.",
+    "ex2": "Álvaro identifica a cor do texto pelo código e evita escolher apenas pelo nome.",
+    "calma": "Se a cor não mudar, confirme a camada selecionada. Fill de texto altera as letras; o fundo precisa de outra forma ou do próprio quadro.",
+    "confira": "Usar cada propriedade para um trabalho específico e conferir o resultado.",
+    "tarefa": "Diferencie preenchimento, contorno e transição",
+    "resumo": [
+      "Fill: área interna",
+      "Stroke: limite do objeto",
+      "Linear: transição entre pontos"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Diferencie preenchimento, contorno e transição\nFill: área interna — <sua decisão>\nStroke: limite do objeto — <sua decisão>\nLinear: transição entre pontos — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "Você quer só uma moldura, sem área colorida no centro. O que configurar?",
+        "Remover Fill e usar Stroke no objeto"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Usar cada propriedade para um trabalho específico e conferir o resultado."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "os três testes existem e você registrou uma escolha para a capa"
+      ]
+    ]
+  },
+  {
+    "titulo": "Separe o texto da fotografia",
+    "entrega": "criar uma área de leitura sem esconder o assunto principal",
+    "dor": "Uma foto varia de claro para escuro. Uma chamada pode desaparecer em uma região e funcionar em outra.",
+    "antes": "Colocar texto claro em qualquer parte da foto e acrescentar sombra forte.",
+    "depois": "Criar uma área estável de leitura e conferir contraste e assunto.",
+    "campos": [
+      "Ordem: foto, sobreposição, texto",
+      "Alternativa: cartão sólido para medir contraste",
+      "Teste: frase legível e assunto reconhecível"
+    ],
+    "passos": [
+      "Duplique a capa e adicione uma sobreposição entre foto e texto.",
+      "Ajuste o preenchimento ou use cartão sólido com as cores do exemplo.",
+      "Compare a leitura pequena e registre qual versão mantém mensagem e assunto."
+    ],
+    "pronto": "há duas versões comparadas e uma área de leitura conferida",
+    "q": "A sobreposição torna a foto quase invisível. Qual ajuste preserva a função?",
+    "opcoes": [
+      "Limitar a área escurecida e reposicionar o texto",
+      "Escurecer ainda mais todo o quadro sem reler",
+      "Diminuir todas as letras para ocupar menos espaço"
+    ],
+    "correta": 0,
+    "observacao": "O acetato representa uma camada entre foto e cartão. A peça real precisa de texto legível; a cena não mede contraste.",
+    "ex1": "Tainá usa um cartão sólido quando a foto dificulta a leitura.",
+    "ex2": "Álvaro confere se a janela continua reconhecível depois da sobreposição.",
+    "calma": "Se o retângulo cobrir as letras, ajuste a ordem na lista de camadas. Opacidade do preenchimento e ordem resolvem problemas diferentes.",
+    "confira": "Criar uma área estável de leitura e conferir contraste e assunto.",
+    "tarefa": "Separe o texto da fotografia",
+    "resumo": [
+      "Ordem: foto, sobreposição, texto",
+      "Alternativa: cartão sólido para medir contraste",
+      "Teste: frase legível e assunto reconhecível"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Separe o texto da fotografia\nOrdem: foto, sobreposição, texto — <sua decisão>\nAlternativa: cartão sólido para medir contraste — <sua decisão>\nTeste: frase legível e assunto reconhecível — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "A sobreposição torna a foto quase invisível. Qual ajuste preserva a função?",
+        "Limitar a área escurecida e reposicionar o texto"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Criar uma área estável de leitura e conferir contraste e assunto."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "há duas versões comparadas e uma área de leitura conferida"
+      ]
+    ]
+  },
+  {
+    "titulo": "Use desfoque para apoiar a informação",
+    "entrega": "testar um fundo desfocado e decidir se ele melhora a peça",
+    "dor": "Desfoque em excesso pode virar ruído ou lentidão. Preserve um assunto nítido e teste a função do fundo.",
+    "antes": "Aplicar desfoque alto a tudo, inclusive ao assunto e ao texto.",
+    "depois": "Desfocar apenas o apoio e manter informação principal nítida.",
+    "campos": [
+      "Layer blur: afeta a própria camada",
+      "Background blur: afeta o conteúdo atrás",
+      "Decisão: efeito ajuda ou versão simples funciona melhor"
+    ],
+    "passos": [
+      "Duplique a capa e aplique Layer blur a uma foto de fundo.",
+      "Compare com a versão sem efeito, mantendo título e assunto nítidos.",
+      "Registre manter ou retirar o efeito com base na leitura e no desempenho."
+    ],
+    "pronto": "o efeito foi testado e a decisão está registrada em uma versão real",
+    "q": "Você aplica Layer blur ao título e ele perde nitidez. Qual foi o comportamento?",
+    "opcoes": [
+      "O programa alterou somente a foto atrás do título",
+      "O efeito atingiu a própria camada selecionada",
+      "A exportação final mudou o tamanho do arquivo"
+    ],
+    "correta": 1,
+    "observacao": "A cena apresenta assunto nítido e uma versão difusa como apoio. Ilustra a diferença visual, sem mostrar o controle do Figma.",
+    "ex1": "Tainá mantém a janela principal nítida para preservar a mensagem.",
+    "ex2": "Álvaro prefere o cartão sólido quando o efeito não melhora a leitura.",
+    "calma": "Não precisa manter o desfoque para concluir. O teste e uma decisão registrada são a entrega desta aula.",
+    "confira": "Desfocar apenas o apoio e manter informação principal nítida.",
+    "tarefa": "Use desfoque para apoiar a informação",
+    "resumo": [
+      "Layer blur: afeta a própria camada",
+      "Background blur: afeta o conteúdo atrás",
+      "Decisão: efeito ajuda ou versão simples funciona melhor"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Use desfoque para apoiar a informação\nLayer blur: afeta a própria camada — <sua decisão>\nBackground blur: afeta o conteúdo atrás — <sua decisão>\nDecisão: efeito ajuda ou versão simples funciona melhor — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "Você aplica Layer blur ao título e ele perde nitidez. Qual foi o comportamento?",
+        "O efeito atingiu a própria camada selecionada"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Desfocar apenas o apoio e manter informação principal nítida."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o efeito foi testado e a decisão está registrada em uma versão real"
+      ]
+    ]
+  },
+  {
+    "titulo": "Use uma máscara para revelar um detalhe",
+    "entrega": "criar e conferir um recorte circular reversível",
+    "dor": "Recortar o arquivo original elimina possibilidades. Uma máscara permite testar a área visível dentro da composição.",
+    "antes": "Apagar partes da foto original para experimentar um detalhe.",
+    "depois": "Usar uma máscara reversível e conferir qual camada está sendo movida.",
+    "campos": [
+      "Máscara: forma abaixo da foto",
+      "Seleção: forma e foto para criar o grupo",
+      "Revisão: detalhe visível sem perder o propósito"
+    ],
+    "passos": [
+      "Crie uma elipse e uma cópia da imagem fora da capa.",
+      "Coloque a elipse abaixo da foto, selecione ambas e aplique Use as mask.",
+      "Mova a foto dentro do grupo e registre se o recorte ajuda ou deve ser retirado."
+    ],
+    "pronto": "a máscara funciona e você conferiu o efeito de mover a fotografia",
+    "q": "Você quer mudar o detalhe dentro do círculo sem mover o círculo. O que selecionar?",
+    "opcoes": [
+      "O quadro inteiro com todos os seus objetos",
+      "A máscara e todos os textos da composição",
+      "A camada da fotografia dentro do grupo de máscara"
+    ],
+    "correta": 2,
+    "observacao": "O papel vazado revela uma parte da imagem. A cena é uma analogia; no Figma a máscara fica abaixo da fotografia na lista.",
+    "ex1": "Tainá testa o recorte numa cópia para preservar a capa.",
+    "ex2": "Álvaro seleciona a foto dentro do grupo antes de ajustar o detalhe.",
+    "calma": "Confira se a elipse está abaixo da foto e se as duas se sobrepõem. Uma máscara fora do assunto pode parecer vazia.",
+    "confira": "Usar uma máscara reversível e conferir qual camada está sendo movida.",
+    "tarefa": "Use uma máscara para revelar um detalhe",
+    "resumo": [
+      "Máscara: forma abaixo da foto",
+      "Seleção: forma e foto para criar o grupo",
+      "Revisão: detalhe visível sem perder o propósito"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Use uma máscara para revelar um detalhe\nMáscara: forma abaixo da foto — <sua decisão>\nSeleção: forma e foto para criar o grupo — <sua decisão>\nRevisão: detalhe visível sem perder o propósito — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "Você quer mudar o detalhe dentro do círculo sem mover o círculo. O que selecionar?",
+        "A camada da fotografia dentro do grupo de máscara"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Usar uma máscara reversível e conferir qual camada está sendo movida."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a máscara funciona e você conferiu o efeito de mover a fotografia"
+      ]
+    ]
+  },
+  {
+    "titulo": "Guarde estilos para repetir escolhas",
+    "entrega": "criar e aplicar um estilo local de texto",
+    "dor": "Repetir valores manualmente aumenta diferenças acidentais. Um estilo reúne propriedades para usar novamente.",
+    "antes": "Copiar valores parecidos em cada título e chamar isso de estilo.",
+    "depois": "Aplicar um estilo local e testar se uma mudança nele chega aos textos vinculados.",
+    "campos": [
+      "Estilo: Título/Luz",
+      "Teste: dois textos vinculados respondem à edição",
+      "Separados: cor e alinhamento"
+    ],
+    "passos": [
+      "Crie o estilo Título/Luz a partir do título configurado.",
+      "Aplique a um texto de teste e altere o estilo para tamanho 68.",
+      "Confira os dois textos, restaure 64 e anote que cor fica em Fill."
+    ],
+    "pronto": "dois textos usam o estilo e responderam ao teste de edição",
+    "q": "O estilo tipográfico mudou, mas a cor não. Qual explicação corresponde ao recurso?",
+    "opcoes": [
+      "A cor fica em Fill e não integra o estilo de texto",
+      "O arquivo exige uma nova página para alterar cores",
+      "O estilo só funciona depois de exportar a imagem"
+    ],
+    "correta": 0,
+    "observacao": "Cartões com tratamento repetido ilustram consistência. No arquivo, confira o vínculo pelo nome do estilo.",
+    "ex1": "Tainá nomeia o estilo pela função, para reencontrá-lo.",
+    "ex2": "Álvaro confere a cor separadamente, sem desfazer o estilo.",
+    "calma": "Confira se você editou o estilo ou só um texto. Valores iguais não provam que as camadas estão vinculadas.",
+    "confira": "Aplicar um estilo local e testar se uma mudança nele chega aos textos vinculados.",
+    "tarefa": "Guarde estilos para repetir escolhas",
+    "resumo": [
+      "Estilo: Título/Luz",
+      "Teste: dois textos vinculados respondem à edição",
+      "Separados: cor e alinhamento"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Guarde estilos para repetir escolhas\nEstilo: Título/Luz — <sua decisão>\nTeste: dois textos vinculados respondem à edição — <sua decisão>\nSeparados: cor e alinhamento — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "O estilo tipográfico mudou, mas a cor não. Qual explicação corresponde ao recurso?",
+        "A cor fica em Fill e não integra o estilo de texto"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Aplicar um estilo local e testar se uma mudança nele chega aos textos vinculados."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "dois textos usam o estilo e responderam ao teste de edição"
+      ]
+    ]
+  },
+  {
+    "titulo": "Crie um componente e confira suas cópias",
+    "entrega": "testar uma alteração no componente principal e em duas instâncias",
+    "dor": "Duplicar uma forma comum produz cópias independentes. Um componente permite manter uma parte repetida vinculada.",
+    "antes": "Duplicar círculos comuns e esperar que todos mudem juntos.",
+    "depois": "Criar o principal, inserir instâncias e testar uma propriedade sem mudanças locais.",
+    "campos": [
+      "Principal: Marca/Ponto",
+      "Instâncias: duas cópias vinculadas",
+      "Teste: cor muda no principal e nas duas cópias"
+    ],
+    "passos": [
+      "Crie o componente Marca/Ponto com uma elipse de 32 por 32.",
+      "Duplique o principal duas vezes sem editar a cor das instâncias.",
+      "Altere a cor do principal, confira as duas cópias e restaure ocre."
+    ],
+    "pronto": "o principal e as duas instâncias responderam ao teste de cor",
+    "q": "Duas instâncias sem mudanças locais devem receber uma nova cor. Onde fazer a edição?",
+    "opcoes": [
+      "Na cor de fundo da página que contém todos os quadros",
+      "No preenchimento do componente principal Marca/Ponto",
+      "No arquivo PNG exportado de uma das duas instâncias"
+    ],
+    "correta": 1,
+    "observacao": "Três cartões repetem um pequeno marcador. A cena ilustra a repetição; o vínculo precisa ser conferido no Figma.",
+    "ex1": "Tainá guarda o principal fora da área de exportação.",
+    "ex2": "Álvaro testa duas instâncias antes de repetir a marca nas páginas.",
+    "calma": "Se mudou apenas uma cópia, confira se ela é uma instância e se a cor recebeu uma alteração local.",
+    "confira": "Criar o principal, inserir instâncias e testar uma propriedade sem mudanças locais.",
+    "tarefa": "Crie um componente e confira suas cópias",
+    "resumo": [
+      "Principal: Marca/Ponto",
+      "Instâncias: duas cópias vinculadas",
+      "Teste: cor muda no principal e nas duas cópias"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Crie um componente e confira suas cópias\nPrincipal: Marca/Ponto — <sua decisão>\nInstâncias: duas cópias vinculadas — <sua decisão>\nTeste: cor muda no principal e nas duas cópias — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "Duas instâncias sem mudanças locais devem receber uma nova cor. Onde fazer a edição?",
+        "No preenchimento do componente principal Marca/Ponto"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Criar o principal, inserir instâncias e testar uma propriedade sem mudanças locais."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o principal e as duas instâncias responderam ao teste de cor"
+      ]
+    ]
+  },
+  {
+    "titulo": "Desenhe uma linha e avalie extensões",
+    "entrega": "criar um traço simples e decidir se precisa de um complemento",
+    "dor": "Procurar extensões antes de entender a tarefa pode acrescentar custo sem resolver a composição.",
+    "antes": "Adicionar um complemento porque parece popular, sem uma tarefa definida.",
+    "depois": "Resolver o traço com a caneta e avaliar complementos somente diante de uma necessidade.",
+    "campos": [
+      "Traço: três pontos e dois segmentos",
+      "Aparência: Stroke azul petróleo, espessura 4",
+      "Complemento: necessidade escrita ou nenhum"
+    ],
+    "passos": [
+      "Desenhe a linha com três cliques e termine com Esc.",
+      "Confira Stroke e retire Fill se aparecer uma área preenchida.",
+      "Anote um problema que exigiria complemento, ou registre nenhum necessário."
+    ],
+    "pronto": "a linha está visível e a decisão sobre complemento tem uma justificativa",
+    "q": "Você só precisa ligar três detalhes por uma linha. Qual primeiro caminho atende ao caso?",
+    "opcoes": [
+      "Contratar um complemento antes de abrir o arquivo",
+      "Substituir a série inteira por um modelo da comunidade",
+      "Testar a ferramenta Pen com poucos pontos e Stroke"
+    ],
+    "correta": 2,
+    "observacao": "Uma curva aparece abaixo de três símbolos de câmera. Ela ilustra percurso visual; a prática usa três pontos e dois segmentos retos.",
+    "ex1": "Tainá começa com poucos pontos para controlar o desenho.",
+    "ex2": "Álvaro registra que não precisa de complemento para a tarefa atual.",
+    "calma": "Se aparecer um bloco preenchido, retire Fill. Se a linha sumir, confira Stroke e a espessura.",
+    "confira": "Resolver o traço com a caneta e avaliar complementos somente diante de uma necessidade.",
+    "tarefa": "Desenhe uma linha e avalie extensões",
+    "resumo": [
+      "Traço: três pontos e dois segmentos",
+      "Aparência: Stroke azul petróleo, espessura 4",
+      "Complemento: necessidade escrita ou nenhum"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Desenhe uma linha e avalie extensões\nTraço: três pontos e dois segmentos — <sua decisão>\nAparência: Stroke azul petróleo, espessura 4 — <sua decisão>\nComplemento: necessidade escrita ou nenhum — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "Você só precisa ligar três detalhes por uma linha. Qual primeiro caminho atende ao caso?",
+        "Testar a ferramenta Pen com poucos pontos e Stroke"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Resolver o traço com a caneta e avaliar complementos somente diante de uma necessidade."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a linha está visível e a decisão sobre complemento tem uma justificativa"
+      ]
+    ]
+  },
+  {
+    "titulo": "Revise a peça com perguntas concretas",
+    "entrega": "preparar uma revisão e registrar uma decisão sobre a capa",
+    "dor": "Perguntar apenas se ficou bonito produz respostas difíceis de usar. Uma revisão precisa mostrar o problema e o critério.",
+    "antes": "Pedir aprovação geral e mudar todas as cores após uma opinião.",
+    "depois": "Perguntar sobre mensagem e leitura, registrar a fala e testar uma mudança ligada ao problema.",
+    "campos": [
+      "Perguntas: mensagem principal e dificuldade de leitura",
+      "Registro: fala, interpretação e decisão em campos separados",
+      "Situação: avaliação própria feita; conversa externa feita ou pendente"
+    ],
+    "passos": [
+      "Escreva as duas perguntas para uma futura revisão da capa.",
+      "Confira você mesmo os cinco critérios da aula 2 e registre uma decisão.",
+      "Registre a situação da conversa externa sem inventar uma resposta."
+    ],
+    "pronto": "o roteiro e a avaliação própria estão registrados, com a conversa externa identificada",
+    "q": "Uma pessoa disse que não leu o subtítulo. Qual registro mantém fato e hipótese separados?",
+    "opcoes": [
+      "Fala: não li; hipótese: destaque baixo; teste: aumentar destaque",
+      "Fala: todos rejeitaram; hipótese: certa; teste: trocar o projeto",
+      "Fala: precisa ficar bonito; hipótese: nenhuma; teste: qualquer efeito"
+    ],
+    "correta": 0,
+    "observacao": "Tainá e Álvaro examinam fotografias juntos. A cena ilustra revisão, sem representar um depoimento ou teste real.",
+    "ex1": "Tainá anota a frase recebida antes de propor uma solução.",
+    "ex2": "Álvaro pode mostrar a peça na tela sem liberar edição do arquivo.",
+    "calma": "Se ninguém estiver disponível, faça a avaliação própria e deixe a conversa externa pendente. Não registre retorno que não aconteceu.",
+    "confira": "Perguntar sobre mensagem e leitura, registrar a fala e testar uma mudança ligada ao problema.",
+    "tarefa": "Revise a peça com perguntas concretas",
+    "resumo": [
+      "Perguntas: mensagem principal e dificuldade de leitura",
+      "Registro: fala, interpretação e decisão em campos separados",
+      "Situação: avaliação própria feita; conversa externa feita ou pendente"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Revise a peça com perguntas concretas\nPerguntas: mensagem principal e dificuldade de leitura — <sua decisão>\nRegistro: fala, interpretação e decisão em campos separados — <sua decisão>\nSituação: avaliação própria feita; conversa externa feita ou pendente — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "Uma pessoa disse que não leu o subtítulo. Qual registro mantém fato e hipótese separados?",
+        "Fala: não li; hipótese: destaque baixo; teste: aumentar destaque"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Perguntar sobre mensagem e leitura, registrar a fala e testar uma mudança ligada ao problema."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o roteiro e a avaliação própria estão registrados, com a conversa externa identificada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Exporte e abra o arquivo para conferir",
+    "entrega": "exportar uma capa em PNG e conferir o resultado fora do Figma",
+    "dor": "Ver a composição no editor não prova que o arquivo entregue saiu correto. A conferência acontece também depois de salvar.",
+    "antes": "Enviar o primeiro arquivo salvo sem conferir o que foi selecionado.",
+    "depois": "Selecionar o quadro inteiro, exportar em 1x e abrir o PNG para revisar.",
+    "campos": [
+      "Seleção: quadro 00-Capa",
+      "Formato: PNG em 1x, 1080 por 1350",
+      "Conferência: arquivo aberto fora do editor"
+    ],
+    "passos": [
+      "Selecione 00-Capa e configure Export em PNG, escala 1x.",
+      "Exporte e encontre o arquivo salvo no computador.",
+      "Abra o PNG e confira dimensões, texto, foto e fundo."
+    ],
+    "pronto": "o PNG abre fora do Figma e contém a capa completa nas dimensões planejadas",
+    "q": "A imagem exportada contém só um círculo. Qual primeira correção verificar?",
+    "opcoes": [
+      "Aumentar a espessura de todos os contornos do arquivo",
+      "Selecionar o quadro completo antes de exportar novamente",
+      "Mudar a cor do componente principal para outra tonalidade"
+    ],
+    "correta": 1,
+    "observacao": "Uma pasta reúne quatro imagens. A cena ilustra a entrega organizada, não comprova arquivos exportados do Figma.",
+    "ex1": "Tainá confere a prévia antes de salvar o quadro.",
+    "ex2": "Álvaro abre o arquivo salvo para verificar se a capa está inteira.",
+    "calma": "Confira qual camada está selecionada. Exportar um objeto isolado não entrega os demais elementos do quadro.",
+    "confira": "Selecionar o quadro inteiro, exportar em 1x e abrir o PNG para revisar.",
+    "tarefa": "Exporte e abra o arquivo para conferir",
+    "resumo": [
+      "Seleção: quadro 00-Capa",
+      "Formato: PNG em 1x, 1080 por 1350",
+      "Conferência: arquivo aberto fora do editor"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Exporte e abra o arquivo para conferir\nSeleção: quadro 00-Capa — <sua decisão>\nFormato: PNG em 1x, 1080 por 1350 — <sua decisão>\nConferência: arquivo aberto fora do editor — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "A imagem exportada contém só um círculo. Qual primeira correção verificar?",
+        "Selecionar o quadro completo antes de exportar novamente"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Selecionar o quadro inteiro, exportar em 1x e abrir o PNG para revisar."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o PNG abre fora do Figma e contém a capa completa nas dimensões planejadas"
+      ]
+    ]
+  },
+  {
+    "titulo": "Complete a série e guarde uma cópia editável",
+    "entrega": "conferir quatro peças exportadas e uma cópia local do projeto",
+    "dor": "Uma capa isolada não conclui a série planejada. A entrega precisa conter as quatro peças e uma forma de retomar o trabalho.",
+    "antes": "Guardar uma captura da capa e considerar a série encerrada.",
+    "depois": "Conferir quatro PNGs, a cópia .fig, a imagem fonte e a nota do projeto.",
+    "campos": [
+      "Série: capa, luz, detalhe e série",
+      "Entrega: quatro PNGs abertos e conferidos",
+      "Arquivo: cópia .fig, fonte e nota com data e endereço"
+    ],
+    "passos": [
+      "Abra os quatro PNGs e confira ordem, títulos, recortes e leitura.",
+      "Salve a cópia local .fig e reúna imagem fonte e nota do projeto.",
+      "Registre o que foi conferido e mantenha pendente qualquer item ausente."
+    ],
+    "pronto": "os quatro PNGs estão conferidos e a cópia .fig foi salva com a fonte e a nota",
+    "q": "Você precisa mudar um título depois da entrega. Qual material preserva a edição do projeto?",
+    "opcoes": [
+      "Uma fotografia da tela mostrando as quatro páginas",
+      "O PNG da capa acompanhado de uma miniatura da série",
+      "O arquivo original online ou a cópia local .fig"
+    ],
+    "correta": 2,
+    "observacao": "As quatro fotografias reunidas representam a ideia de série. A entrega real inclui texto e deve ser criada e conferida no Figma.",
+    "ex1": "Tainá revisa cada recorte antes de exportar a série.",
+    "ex2": "Álvaro guarda a cópia editável junto da nota para retomar depois.",
+    "calma": "Se falta uma página, produza-a antes da conferência final. A lista ajuda a localizar a pendência, sem transformar ausência em conclusão.",
+    "confira": "Conferir quatro PNGs, a cópia .fig, a imagem fonte e a nota do projeto.",
+    "tarefa": "Complete a série e guarde uma cópia editável",
+    "resumo": [
+      "Série: capa, luz, detalhe e série",
+      "Entrega: quatro PNGs abertos e conferidos",
+      "Arquivo: cópia .fig, fonte e nota com data e endereço"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Acesso à conta e processamento podem exigir tempo adicional.",
+    "molde": "Projeto: Luz de Rua\nAula: Complete a série e guarde uma cópia editável\nSérie: capa, luz, detalhe e série — <sua decisão>\nEntrega: quatro PNGs abertos e conferidos — <sua decisão>\nArquivo: cópia .fig, fonte e nota com data e endereço — <sua decisão>\nArquivo ou quadro conferido:\nDecisão: manter ou ajustar\nPendência real:",
+    "cartoes": [
+      [
+        "Você precisa mudar um título depois da entrega. Qual material preserva a edição do projeto?",
+        "O arquivo original online ou a cópia local .fig"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Conferir quatro PNGs, a cópia .fig, a imagem fonte e a nota do projeto."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "os quatro PNGs estão conferidos e a cópia .fig foi salva com a fonte e a nota"
+      ]
+    ],
+    "aviso_tempo": "Esta aula reúne a produção final. Os dez minutos da prática são para conferir arquivos já produzidos; montar as páginas exige tempo adicional."
+  }
+]

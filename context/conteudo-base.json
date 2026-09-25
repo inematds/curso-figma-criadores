@@ -1,0 +1,294 @@
+{
+  "slug": "figma-criadores",
+  "title": "Design Essencial no Figma para Criadores v6.2",
+  "modules": [
+    {
+      "title": "Arquivo e critérios",
+      "promise": "Comece no produto certo e planeje uma capa com três páginas.",
+      "topics": [
+        {
+          "title": "Figma Design é a bancada deste curso",
+          "concept": "Figma Design permite organizar imagens, formas e textos em peças visuais. Tainá, fotógrafa de 32 anos, ajuda Álvaro, guia de 61 anos. Eles preparam Luz de Rua, um passeio fotográfico fictício. O projeto será uma capa e três páginas de orientação.",
+          "why": "Use um computador com navegador. Entre na sua conta do Figma e escolha criar um arquivo de Design. Evite confundir com FigJam, Slides, Sites ou Make. Renomeie o arquivo para Luz de Rua. Guarde o endereço no favorito do navegador.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Confirme acesso antes de produzir",
+          "concept": "Volte à lista de arquivos e reabra Luz de Rua. Você precisa de permissão para editar. O plano Starter permite trabalho básico, mas tem limites de organização e colaboração. O curso usa um arquivo, uma página e vários quadros, sem depender de recursos pagos.",
+          "why": "O Figma guarda alterações na conta. Aguarde a indicação de salvamento antes de sair. Mais adiante você também salvará uma cópia local. As telas e nomes podem mudar; procure a função descrita e confira o resultado, sem decorar posições de botões.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        },
+        {
+          "title": "Clareza pode ser observada",
+          "concept": "Use cinco critérios: uma mensagem principal, poucos estilos de letra, espaços regulares, escolhas repetidas e contraste suficiente. Eles formam uma régua para revisar. Não são uma fórmula de luxo. Uma peça simples pode funcionar bem quando sua intenção fica clara.",
+          "why": "Na capa de Luz de Rua, a mensagem é aprender a observar a cidade. Horário, preço e várias promessas não precisam disputar a primeira leitura. Como o passeio é fictício, o exercício não inventa endereço ou inscrição real. Trabalhamos o convite visual e três orientações.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Escolha uma correção por vez",
+          "concept": "Observe o exemplo antes e depois desta aula. A versão revisada organiza chamada, explicação e fotografia. Anote o problema que mais atrapalha a leitura. Escolha uma mudança ligada a ele: retirar excesso, aumentar espaço, alinhar ou criar contraste.",
+          "why": "Use uma captura da peça ou uma anotação para guardar sua avaliação. Se nenhum problema aparecer, registre quais critérios passaram. O exercício termina com um diagnóstico e uma decisão, sem exigir uma reforma desnecessária.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        },
+        {
+          "title": "Quatro peças, uma sequência",
+          "concept": "A capa apresenta Luz de Rua. A página 1 orienta observar a luz. A página 2 pede escolher um detalhe. A página 3 convida montar uma série. Cada página recebe uma ideia principal e uma frase de apoio. Evite repetir a mesma promessa nas quatro.",
+          "why": "Escreva primeiro numa nota. Exemplo da capa: Luz de Rua; um passeio para treinar o olhar. Página 1: Olhe a luz; observe onde a sombra muda. As outras páginas podem usar Escolha um detalhe e Monte sua série.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Defina os elementos que vão se repetir",
+          "concept": "Escolha uma cor de fundo, uma de texto e uma de destaque. Reserve um lugar para o nome e para a numeração. No exercício, usaremos creme, azul petróleo e ocre. Essas escolhas ajudam a reconhecer a família sem exigir imagens idênticas.",
+          "why": "Quem vem do Canva pode pensar em uma página do desenho. No Figma, cada peça ficará num quadro chamado frame. Uma página do arquivo pode conter muitos quadros. Essa diferença evita criar vários arquivos para um único carrossel.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        }
+      ]
+    },
+    {
+      "title": "Quadros e imagens",
+      "promise": "Organize dimensões, camadas e recortes.",
+      "topics": [
+        {
+          "title": "O quadro guarda dimensões e conteúdo",
+          "concept": "No arquivo Luz de Rua, escolha Frame na barra de ferramentas ou pressione F fora da edição de texto. Desenhe um quadro vazio. Com ele selecionado, localize W e H, largura e altura. Defina 1080 e 1350. Se necessário, desative a proporção vinculada.",
+          "why": "Renomeie o quadro para 00-Capa na lista de camadas. O formato 4:5 é o alvo deste exercício, não uma garantia de regra permanente de plataforma. Na entrega, confira o destino real. Uma miniatura horizontal poderá usar outro quadro de 1280 por 720.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Zoom da tela não muda o arquivo",
+          "concept": "Reduzir a visualização ajuda a ver o quadro inteiro. Isso não altera suas dimensões. Mudar W e H altera o quadro. Essa distinção evita aumentar a peça quando você queria apenas enxergar melhor.",
+          "why": "Selecione o nome 00-Capa na lista para conferir o contorno do quadro. Deixe espaço na área de trabalho para duplicá-lo depois. Não é preciso criar outra página do arquivo. Vamos manter todas as peças juntas para comparar.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        },
+        {
+          "title": "Cada objeto ocupa uma camada",
+          "concept": "Selecione 00-Capa. Use Rectangle ou R para desenhar dois retângulos sobrepostos dentro dele. Aplique cores diferentes em Fill, o preenchimento. Observe os dois itens na lista de camadas. O que está acima normalmente aparece na frente.",
+          "why": "Renomeie os retângulos Fundo e Cartão. Na lista, arraste Cartão para cima de Fundo. Confira a mudança na tela. Os dois devem estar dentro de 00-Capa. A indentação da lista mostra essa relação; arraste para dentro do quadro se estiverem soltos.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Ocultar é um teste reversível",
+          "concept": "Use o controle de visibilidade de uma camada para ocultá-la e exibi-la novamente. Se o objeto reaparece, você localizou a camada correta. Bloquear impede alterações acidentais. Desbloqueie quando precisar ajustar o item.",
+          "why": "A opção Clip content do quadro recorta o conteúdo que ultrapassa seus limites. Ela não remove o arquivo original. Teste mover uma forma parcialmente para fora e observe o recorte. Depois devolva a forma ao lugar e preserve apenas o que pretende usar.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        },
+        {
+          "title": "Uma imagem pode preencher uma forma",
+          "concept": "Guarde a imagem fonte do kit no computador. No Figma, use Place image pelo menu de arquivo ou arraste o arquivo para a área de trabalho. Coloque a imagem dentro de 00-Capa. Confira sua posição na lista de camadas. Selecione a camada da imagem. Desative o vínculo de proporção e defina W 952 e H 800. Posicione-a com espaço para o título. Agora a forma tem proporção diferente da foto, permitindo comparar Fit e Fill no preenchimento.",
+          "why": "Com a imagem selecionada, abra seu preenchimento em Fill. Fit mostra a imagem inteira, podendo deixar espaço livre. Fill ocupa a forma, podendo cortar bordas. Crop permite reposicionar o recorte. Use o modo que preserva o arco da janela para esta capa.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Recorte precisa respeitar a mensagem",
+          "concept": "Compare uma versão que corta o arco com outra que o mantém. A foto serve para convidar a observar arquitetura. Perder o arco pode enfraquecer essa intenção. Se usar outra foto, defina antes qual detalhe deve permanecer.",
+          "why": "A imagem do kit foi gerada no Codex e representa uma rua fictícia. Ela não comprova a existência de um passeio ou local. Você pode usar uma fotografia própria autorizada. Guarde a fonte separada para refazer o enquadramento quando mudar o formato.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        }
+      ]
+    },
+    {
+      "title": "Texto e composição",
+      "promise": "Crie hierarquia, alinhamento e cores conferíveis.",
+      "topics": [
+        {
+          "title": "Texto é uma camada editável",
+          "concept": "Use Text ou T e clique dentro de 00-Capa. Escreva Luz de Rua. Na seção Typography, escolha Inter, peso Bold e tamanho 64. Crie outra camada com Aprenda a observar a cidade, tamanho 32. Crie uma assinatura Exemplo didático, tamanho 28.",
+          "why": "Os valores são pontos de partida para o quadro de 1080 por 1350. Ajuste conforme o comprimento e a leitura. Use uma área de fundo simples. A frase menor não deve ficar espremida numa margem. Se o texto fugir do quadro, reduza a largura da caixa para quebrar linhas.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Entrelinha organiza o bloco",
+          "concept": "Para conferir a distância entre linhas, faça uma cópia do título. Reduza a largura da caixa até o título ocupar duas linhas. No controle Line height, que define a altura de linha, experimente 72 pixels com letras de tamanho 64. Compare com um valor menor e veja se as linhas ficam apertadas. Depois restaure a capa de uma linha e retire o teste.",
+          "why": "Leia uma frase com acentos, como Observação da cidade. Confira se todos os caracteres aparecem na fonte escolhida. Depois reduza a visualização ao tamanho aproximado de uso. Se a leitura depender de ampliar, ajuste a peça antes de acrescentar decoração.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        },
+        {
+          "title": "A seleção define o alinhamento",
+          "concept": "Selecione três objetos do mesmo quadro, mantendo Shift ao clicar. Use Align left para alinhar pelo início. Confira quais objetos ficaram selecionados. Quando apenas um está marcado, o alinhamento pode usar o quadro pai como referência.",
+          "why": "Para treinar, use três retângulos de teste fora da capa. Coloque-os numa coluna, selecione os três e use Tidy up ou distribuição vertical. Observe a distância entre eles. Ajuste para 24 no campo de espaçamento quando disponível.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Margem é parte da composição",
+          "concept": "Na capa, reserve uma margem inicial de 64 unidades para a região de texto. Ela é uma escolha deste exercício, não um padrão universal. Confira se título, apoio e assinatura respeitam o mesmo início. Use guias visuais e os campos de posição para ajustar.",
+          "why": "Não aplique organização automática a toda a peça sem olhar. O programa não conhece a importância de cada elemento. Tidy up pode mudar posições além do desejado. Teste numa cópia ou desfaça se a composição perder sentido.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        },
+        {
+          "title": "Preenchimento ocupa, contorno delimita",
+          "concept": "Crie três quadrados de teste. No primeiro, escolha Fill sólido azul petróleo #173B46. No segundo, retire o preenchimento e adicione Stroke, o contorno. Ajuste sua espessura e confira o limite. No terceiro, experimente um preenchimento Linear, o gradiente.",
+          "why": "No gradiente, cada ponto controla uma cor e sua opacidade. Use azul petróleo em uma ponta e reduza a opacidade na outra. A linha de controle muda a direção da transição. Isso será útil para suavizar uma área atrás do texto.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "A paleta precisa de papéis claros",
+          "concept": "Use creme #F7F1E6 para fundo, azul #173B46 para texto e ocre #C58B35 como destaque. Copie cada código no campo de cor. É uma identificação da cor, não um comando. Não use o ocre automaticamente para texto pequeno; confira o contraste da combinação.",
+          "why": "Retire efeitos dos quadrados para observar apenas a propriedade estudada. Depois aplique uma escolha à capa e confira a leitura. Um gradiente que parece bonito pode competir com a fotografia. Mantenha somente se ajudar a separar a informação.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        }
+      ]
+    },
+    {
+      "title": "Efeitos com propósito",
+      "promise": "Teste sobreposição, desfoque e máscara sem esconder a mensagem.",
+      "topics": [
+        {
+          "title": "Sobreposição precisa de ordem",
+          "concept": "Selecione 00-Capa na lista e use Duplicate no menu de contexto. O atalho é Ctrl+D no Windows ou Cmd+D no Mac. Trabalhe na cópia para preservar a versão atual. Sobre a fotografia, crie um retângulo azul #173B46. Mantenha o retângulo abaixo dos textos e acima da foto. Diminua a opacidade do preenchimento para ver a imagem por baixo.",
+          "why": "Ajuste a área e a intensidade olhando a frase inteira. Não existe uma porcentagem que funcione para toda fotografia. Se a leitura continuar instável, use um cartão de cor sólida atrás do texto. A imagem pode continuar visível na área restante.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "O teste é a leitura, não o efeito",
+          "concept": "O creme #F7F1E6 sobre azul #173B46 forma a dupla de texto do exemplo. Confira a relação no verificador indicado. Para texto comum, use 4,5 para 1 como referência mínima. Sobre fotografia, a relação muda conforme o ponto; um fundo sólido facilita a medição.",
+          "why": "Compare a versão anterior e a nova no tamanho de uso. A chamada deve ficar clara e a janela deve permanecer reconhecível. Se a sobreposição esconder o assunto, reduza sua área ou mude a posição do texto. Preserve a informação principal.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        },
+        {
+          "title": "O desfoque pode atingir camadas diferentes",
+          "concept": "Em uma cópia da capa, duplique a foto. Coloque a duplicata abaixo da original na lista e amplie-a para preencher o quadro. Reduza a original acima dela para deixar bordas do fundo visíveis. Selecione somente a duplicata. Em Effects, adicione um efeito e escolha Layer blur. Aumente o valor aos poucos; o fundo deve perder nitidez e a foto principal continuar nítida.",
+          "why": "Background blur funciona de outro modo: desfoca o que está atrás da forma selecionada. Para perceber o resultado, o preenchimento dessa forma precisa ter transparência. Use apenas quando houver conteúdo atrás e confira o efeito no conjunto.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Vidro e atmosfera são opcionais",
+          "concept": "Um cartão translúcido com desfoque pode lembrar vidro. Ele só ajuda se o texto continuar legível. Um cartão sólido também é válido. Compare as duas opções sem mudar a chamada, para não confundir o motivo da melhora.",
+          "why": "Não copie um valor alto, como 180, sem considerar o tamanho da peça. Comece com pouco e observe. Vários efeitos podem reduzir o desempenho. Se a interação ficar lenta, oculte os efeitos de teste e mantenha a alternativa simples.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        },
+        {
+          "title": "A forma define a janela de visibilidade",
+          "concept": "Faça o teste fora da capa com uma cópia da fotografia. Escolha Ellipse ou pressione O. Desenhe a elipse mantendo Shift para formar um círculo e posicione-a sobre o detalhe desejado. Na lista de camadas, coloque a elipse abaixo da foto. Selecione as duas e use Use as mask no menu de contexto.",
+          "why": "A máscara limita a parte da foto que aparece. Confira o grupo criado na lista. Se sumir tudo, verifique ordem, posição e seleção. A forma da máscara não reconhece automaticamente o contorno de um objeto; ela revela a área que você desenhou.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Mover a foto e mover a máscara são coisas diferentes",
+          "concept": "Dentro do grupo, selecione a fotografia para ajustar o detalhe visível. Selecione a máscara para mudar a forma da janela. Observe qual camada está destacada antes de arrastar. Para desfazer o teste, use Desfazer ou retire a função de máscara.",
+          "why": "Uma máscara circular pode destacar textura ou maçaneta, mas esconder a forma do arco. Decida se o recorte serve à mensagem. Não confunda máscara com remover fundo por IA. O exercício é uma janela geométrica e não exige um serviço adicional.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        }
+      ]
+    },
+    {
+      "title": "Repetição e recursos",
+      "promise": "Use estilos e componentes, desenhe um traço e avalie complementos.",
+      "topics": [
+        {
+          "title": "O estilo de texto guarda a forma das letras",
+          "concept": "Selecione o título e confira Inter, Bold, tamanho 64 e altura de linha 72. Em Typography, abra o seletor de estilos e crie Título/Luz. Aplique esse estilo a um texto de teste. Estilos de texto guardam fonte, peso, tamanho e espaçamentos.",
+          "why": "A cor e o alinhamento ficam separados do estilo de texto. Confira Fill para a cor e o controle de alinhamento para a posição. Um título pode usar o mesmo estilo tipográfico com outra cor, desde que mantenha leitura suficiente.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Edite o estilo para conferir o vínculo",
+          "concept": "Abra o estilo criado e ajuste temporariamente o tamanho para 68. Confira o título e o texto de teste vinculados. Depois restaure 64. Se um deles não mudar, confira se recebeu o estilo ou apenas valores semelhantes. Guarde uma captura dessa conferência.",
+          "why": "O curso usa estilos locais no mesmo arquivo. Não precisa publicar uma biblioteca para uma equipe. Publicação e compartilhamento de bibliotecas dependem do plano. Você também pode criar estilos de cor pelo seletor de Fill, mas isso é uma etapa separada.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        },
+        {
+          "title": "O principal funciona como uma matriz",
+          "concept": "Fora da capa, desenhe uma elipse de 32 por 32 e escolha ocre em Fill. Selecione somente essa elipse e use Create component. Nomeie Marca/Ponto. Esse é o componente principal. Duplique-o duas vezes para criar instâncias, as cópias vinculadas.",
+          "why": "Uma instância aparece identificada como componente na lista. Você também pode inseri-la pelo painel Assets, nos componentes locais. Não use o principal como enfeite perdido dentro da capa. Deixe-o numa área de referência do mesmo arquivo.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Teste antes de espalhar pela série",
+          "concept": "Mude a cor do principal para azul petróleo. Confira se as duas instâncias acompanham. Depois restaure ocre. Neste teste, não altere individualmente a cor das instâncias. Mudanças locais podem substituir uma propriedade herdada e mudar o resultado esperado.",
+          "why": "Use uma instância como pequeno marcador em cada peça, se ela ajudar a leitura. Não é necessário transformar a capa inteira em componente. Primeiro compreenda um objeto simples. Se uma cópia não acompanhar, confira o vínculo e alterações locais antes de refazer tudo.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        },
+        {
+          "title": "A caneta liga pontos editáveis",
+          "concept": "Em uma área de teste, escolha Pen ou pressione P. Clique em três posições para desenhar uma linha com dois segmentos. Termine com Esc. Selecione o traço, retire Fill se houver e configure Stroke em azul petróleo com espessura 4.",
+          "why": "Use poucos pontos. A linha deve guiar o olhar entre três detalhes, sem parecer um mapa real. Para curvar um trecho, experimente arrastar ao criar um ponto numa cópia. A prática obrigatória usa segmentos retos. Não depende de ferramentas avançadas de desenho.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Complementos acrescentam recursos de terceiros",
+          "concept": "Antes de usar um complemento, escreva o problema que ele resolveria. Na área de ferramentas, procure Plugins e leia descrição, responsável e condições. Um item da comunidade pode exigir pagamento ou acesso a dados. A existência do botão não torna o recurso necessário.",
+          "why": "Para esta série, as formas, textos e imagens do próprio arquivo bastam. Registre sem complemento necessário quando for esse o caso. Recursos adicionais de desenho ou vídeo podem depender do plano. Nenhum deles é necessário para exportar as peças estáticas do curso.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        }
+      ]
+    },
+    {
+      "title": "Revisão e entrega",
+      "promise": "Revise, exporte e guarde uma série de quatro peças.",
+      "topics": [
+        {
+          "title": "Peça uma leitura antes de explicar",
+          "concept": "Mostre a capa e pergunte: qual é a mensagem principal? Depois pergunte o que foi difícil ler. Registre as palavras da pessoa separadas da sua interpretação. No Figma, Share reúne opções de acesso. Para uma leitura, escolha visualização quando disponível, sem conceder edição desnecessária.",
+          "why": "As permissões dependem da conta, do local do arquivo e do plano. Rascunhos no Starter têm limites de colaboração. A alternativa é mostrar a peça na própria tela ou enviar uma imagem exportada na próxima aula. Não mova o arquivo para uma equipe sem conferir as condições.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Uma observação vira decisão quando tem critério",
+          "concept": "Exemplo fictício: a pessoa leu fotografia, mas não percebeu a orientação sobre observar a cidade. Hipótese: o subtítulo está discreto. Teste: aumentar seu destaque mantendo o título principal. Depois compare. Não invente um depoimento real para justificar essa alteração.",
+          "why": "A prática curta prepara duas perguntas e registra sua própria avaliação pelos cinco critérios da aula 2. A conversa com outra pessoa pode ocorrer depois. Se ainda não ocorreu, escreva revisão externa pendente. Separe comentário recebido, interpretação e decisão; não misture os três campos.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        },
+        {
+          "title": "Exporte o quadro completo",
+          "concept": "Selecione o quadro 00-Capa na lista de camadas. Em Export, adicione uma configuração pelo sinal de mais. Escolha PNG e escala 1x. Confira a prévia e exporte. Salve o arquivo numa pasta Luz-de-Rua/entrega. O navegador pode usar a pasta padrão de arquivos recebidos.",
+          "why": "Abra o PNG fora do Figma. Confira dimensões de 1080 por 1350, título inteiro, fotografia, fundo e ausência de objetos de teste. Se sair apenas um objeto, volte e selecione o quadro. Se o fundo sumir, confira Fill e sua inclusão na exportação.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "Escolha o formato pela entrega",
+          "concept": "PNG preserva bem textos e formas em peças estáticas. JPG pode servir a fotografias com arquivo menor, mas não conserva transparência. PDF atende revisão de documento; SVG conserva formas vetoriais com limitações. Nenhum deles substitui o arquivo de trabalho editável do Figma.",
+          "why": "Como teste adicional, exporte o mesmo quadro em PDF e abra o resultado. Confira texto e efeitos: nem todos se comportam igual em cada formato. Para o projeto final, vamos entregar quatro PNGs em 1x. A cópia editável será guardada separadamente na aula seguinte.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        },
+        {
+          "title": "Aplique as escolhas às quatro peças",
+          "concept": "Duplique 00-Capa três vezes. Nomeie os quadros 01-Luz, 02-Detalhe e 03-Serie. Use os títulos Olhe a luz, Escolha um detalhe e Monte sua série. Troque os subtítulos pelas orientações do kit. Ajuste o recorte da mesma imagem sem inventar novos locais.",
+          "why": "Preserve margem, estilo tipográfico e cores. Aplique instâncias do marcador apenas se ajudarem. Confira cada página pelos cinco critérios. Exporte os quatro quadros individualmente em PNG 1x. Use os nomes dos quadros para manter a ordem na pasta de entrega.",
+          "practice": "Repita em uma cópia da peça, alterando apenas uma escolha. Compare antes de manter a mudança.",
+          "caution": "Nomes e posições dos controles podem variar. Confira a seleção e sua permissão de edição antes de procurar o recurso."
+        },
+        {
+          "title": "A imagem pronta e o arquivo editável têm funções diferentes",
+          "concept": "No menu principal, procure File e Save a local copy. Salve uma cópia .fig do seu próprio arquivo. Essa cópia serve para retomar a edição. PNGs servem para visualizar e distribuir as peças. Guarde também a imagem fonte e uma nota com data e endereço do arquivo online.",
+          "why": "A prática de dez minutos é a conferência final, depois de produzir as páginas. Reserve de oito a doze horas para o curso completo com as montagens. Se faltar uma peça, mantenha a entrega pendente. Não confunda o kit de referência com uma série criada por você no Figma.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "O caso Luz de Rua é fictício. As imagens são ilustrações do Codex; os diagramas mostram o método, não a interface real do Figma."
+        }
+      ]
+    }
+  ]
+}

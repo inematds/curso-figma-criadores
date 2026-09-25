@@ -1,0 +1,27 @@
+LUZ DE RUA — KIT DIDÁTICO
+Caso fictício, sem endereço, data ou inscrição reais.
+Imagem fonte: fachada.png, criada pelo recurso de imagens nativo do Codex.
+Não representa um local ou passeio documentado.
+
+Uma página no Figma, quatro quadros de 1080 por 1350.
+Margem inicial: 64. Intervalo inicial entre textos: 24. Ajuste pela leitura.
+Título: Inter Bold, 64, altura de linha 72.
+Subtítulo: Inter Regular, 32. Assinatura: Inter Regular, 28.
+Fundo claro #F7F1E6; azul petróleo #173B46; acento ocre #C58B35.
+O acento não está automaticamente aprovado para texto. Confira cada combinação.
+
+00-Capa: Luz de Rua
+Subtítulo: Aprenda a observar a cidade.
+01-Luz: Olhe a luz
+Subtítulo: Observe onde a sombra termina e a luz começa.
+02-Detalhe: Escolha um detalhe
+Subtítulo: Aproxime o olhar de uma textura, forma ou contraste.
+03-Serie: Monte sua série
+Subtítulo: Reúna três registros com uma escolha visual em comum.
+Assinatura das quatro peças: Exemplo didático.
+
+Use a mesma imagem fonte com recortes diferentes. Preserve o arco na capa.
+Guarde versões antes de testar efeitos. Exporte quatro PNGs em 1x.
+Confira cada PNG fora do editor. Guarde também a cópia .fig do seu arquivo,
+a imagem fonte e uma nota com data e endereço do arquivo online.
+Este kit não contém um arquivo .fig nem uma série pronta feita no Figma.
