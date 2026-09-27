@@ -1,0 +1,12 @@
+{
+  "model": "gpt-6-luna",
+  "execution": "Codex subscription; no external model API",
+  "source_hashes": {
+    "index.html": "336390d6304a8d12ac7997b783606cabac23b5e1b9575263d22c073ceeb96055",
+    "curso.html": "69e729e871e50a43fab30355c8d93828a3cd36d61edd81343a954c03ff305262",
+    "landing.html": "fa8f6dd7f522fb38de4767be01db7b11e954a7274714c25952d7e35917d6a91e",
+    "kit.html": "89c61c7998aff3f9366d484e81d3aa18a6aa00876b04e4bc0a11d4336e19a4ee",
+    "assets/curso.js": "e1d7f3f64ff58b829b70e0ed1a113bfb73f474494e2cefd17790249fcd179bac"
+  },
+  "units": 1295
+}
